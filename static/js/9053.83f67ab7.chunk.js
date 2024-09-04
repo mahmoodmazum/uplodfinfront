@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfinsoft=self.webpackChunkfinsoft||[]).push([[9053],{79053:function(c,s,f){f(47313);s.Z=f.p+"static/media/login-bg.4ab1d004770c8b91499412cc247591c5.svg"}}]);
